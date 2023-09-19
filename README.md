@@ -40,6 +40,8 @@ but if you dont like the full sh*t look just multiply those numbers by 2
 
 for example "128 > 256 > 512" and so on.
 
+if your playing on an full end toaster, just leave it like that
+
 ### Language File
 just as in CS:GO, i also use an own language file in CS2 (just cuz, why not right?).
 
