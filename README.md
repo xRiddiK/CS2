@@ -44,6 +44,7 @@ if your playing on an full end toaster, just leave it like that
 
 ### IMPORTANT
 after you applied the new video config, !!!DONT CHANGE ANY GRAPHIC RELATED SETTINGS INGAME!!!
+
 if you do it will completely override the new config and you have to do it again!
 ## Language File
 just as in CS:GO, i also use an own language file in CS2 (just cuz, why not right?).
@@ -61,8 +62,6 @@ you can change anything in that file to your own wishing
 you also can rename the file to anything, for example "csgo_monkeylanguage.txt"
 
 just remember to also change the name in ur start options then!
-
-
 
 ## Start options
 ```
@@ -89,13 +88,28 @@ engine_low_latency_sleep_after_client_tick true;
 
 echo "Autoexec Loaded";
 ```
-Jumpthrow = "H"
-Runthrow = "J"
+- Jumpthrow = "H"
+- Runthrow = "J"
 (obviously if you can read)
 
 
 
+## Credits
 
-Credits:
+ - [Afromnazareth](https://twitter.com/Afromnazareth)
 
-[Afromnazareth](https://twitter.com/Afromnazareth). For the hardly optimized video.cfg
+
+## Some Extras
+
+- [Wise Memory Optimizer](https://www.wisecleaner.eu/wise-memory-optimizer.html) to clean up your loaded RAM
+- [QuickCPU](https://coderbag.com/product/quickcpu) to boost your cpu a little and unlock all your cores
+- [Malwarebytes](https://de.malwarebytes.com) keep your pc's clean my fellow humans
+- [AdwCleaner](https://de.malwarebytes.com/adwcleaner/) same as one above
+
+## Advertisment
+- [NoName-Gaming](https://noname-gaming.xyz) Community, Clan, Team, whatever. more for the germans out here, cuz we are germans (crazy right?)
+- [My Twitch](https://www.twitch.tv/x_riddik) i WaNt To Be FaMoUs!!1!!1!!!! (jk, i never stream consistently)
+
+
+![Logo](https://abload.de/img/logofancybgbutnobgfqeq7.png)
+
