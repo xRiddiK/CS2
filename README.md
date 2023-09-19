@@ -4,9 +4,9 @@
 ### Video Settings
 #### Step 1:
 Go to "Steam\userdata\<YOUR ID>\730\local\cfg"
-Create a backup of your old "cs2_video.txt" (just rename it to "cs2_video.txt.old" or smth)
+Create a backup of your old "cs2_video.txt" (just rename it to "cs2_video.txt.old" or smth) (!!!DONT DELETE IT!!!)
 #### Step 2:
-Download my "cs2_video.txt" or copy the content of it in a new "cs2_video.txt"
+Download my "cs2_video.txt" or copy the content of it into a new "cs2_video.txt"
 inside of the "cs2_video.txt" change 
 ```
 "DeviceID"		"<YOUR ID>"
