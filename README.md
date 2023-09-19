@@ -61,9 +61,27 @@ just remember to also change the name in ur start options then!
 
 
 
+## Start options
+```
+-novid -freq 165 +exec autoexec.cfg -d3d9ex -tickrate 128 -threads 12 -high -language xriddik -nojoy
+```
+my autoexec
+```
+alias "+jumpthrow" "+jump;-attack"; 
+alias "-jumpthrow" "-jump"; 
+bind h "+jumpthrow";
 
+fps_max "0";
+fps_max_ui "0";
+cl_showfps "1";
+cl_updaterate "128";
+cl_interp_ratio "1";
+cl_interp "0.015625";
+engine_low_latency_sleep_after_client_tick true;
 
-
+echo "Autoexec Loaded";
+```
+(jumpthrow not working for now(?))
 
 
 
