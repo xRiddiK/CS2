@@ -32,6 +32,7 @@ after you placed the language file there add .
 -language xriddik
 ```
 to your CS:GO/CS2 start options in steam
+
 you can change anything in that file to your own wishing
 you also can rename the file to anything, for example "csgo_monkeylanguage.txt"
 just remember to also change the name in ur start options then!
