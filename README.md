@@ -67,9 +67,14 @@ just remember to also change the name in ur start options then!
 ```
 my autoexec
 ```
-alias "+jumpthrow" "+jump;-attack"; 
-alias "-jumpthrow" "-jump"; 
-bind h "+jumpthrow";
+alias "+jumpaction" "+jump;"
+alias "+throwaction" "-attack; -attack2"
+alias "-jumpaction" "-jump"
+bind h "+jumpaction;+throwaction;"
+
+alias "+runthrow" "+forward;+jump;"
+alias "-runthrow" "-jump;-forward"
+bind j "+runthrow;+throwaction"
 
 fps_max "0";
 fps_max_ui "0";
@@ -81,7 +86,9 @@ engine_low_latency_sleep_after_client_tick true;
 
 echo "Autoexec Loaded";
 ```
-(jumpthrow not working for now(?))
+Jumpthrow = "H"
+Runthrow = "J"
+(obviously if you can read)
 
 
 
