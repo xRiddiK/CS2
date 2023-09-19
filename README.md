@@ -23,3 +23,15 @@ down here is an example for 1280x960 on 4:3
 ```
 you can change it to any resolution you want tho
 before you switch from 4:3 to 16:9 or vice versa (or any other aspect ratio) you have to change the ratio in CS2 itself before you apply the new video.cfg
+
+### Language File
+just as in CS:GO, i also use an own language file in CS2 (just cuz, why not right?)
+in case you want to use my language file, just download it and put it into "\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\resource"
+after you placed the language file there add 
+```
+-language xriddik
+```
+to your CS:GO/CS2 start options in steam
+you can change anything in that file to your own wishing
+you also can rename the file to anything, for example "csgo_monkeylanguage.txt"
+just remember to also change the name in ur start options then!
