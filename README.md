@@ -1,6 +1,6 @@
-## CS2 Config Shit
+# CS2 Config Shit
 
-### Video Settings
+## Video Settings
 #### Step 1:
 Go to "Steam\userdata\<YOUR ID>\730\local\cfg".
 
@@ -42,7 +42,7 @@ for example "128 > 256 > 512" and so on.
 
 if your playing on an full end toaster, just leave it like that
 
-### Language File
+## Language File
 just as in CS:GO, i also use an own language file in CS2 (just cuz, why not right?).
 
 in case you want to use my language file, just download it and put it into "\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\resource".
