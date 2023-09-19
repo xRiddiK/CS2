@@ -8,6 +8,10 @@ if you still need a help you can hit me up on discord or steam
 - Discord [xRiddiK](https://discord.com/users/736968687239823412)
 - Steam [xRiddiK](https://steamcommunity.com/id/xriddik/)
 
+also you can open an issue here on github.
+
+if you got some major changes or tweaks, open a PR.
+
 ## Credits
 
  - [Afromnazareth](https://twitter.com/Afromnazareth)
