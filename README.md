@@ -56,4 +56,4 @@ just remember to also change the name in ur start options then!
 
 
 Credits:
-For the hardly optimized video.cfg [Afromnazareth](https://pages.github.com/](https://twitter.com/Afromnazareth).
+For the hardly optimized video.cfg [Afromnazareth](https://twitter.com/Afromnazareth).
