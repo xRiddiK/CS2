@@ -42,6 +42,9 @@ for example "128 > 256 > 512" and so on.
 
 if your playing on an full end toaster, just leave it like that
 
+### IMPORTANT
+after you applied the new video config, !!!DONT CHANGE ANY GRAPHIC RELATED SETTINGS INGAME!!!
+if you do it will completely override the new config and you have to do it again!
 ## Language File
 just as in CS:GO, i also use an own language file in CS2 (just cuz, why not right?).
 
