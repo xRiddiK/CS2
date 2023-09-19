@@ -29,6 +29,17 @@ you can change it to any resolution you want tho.
 
 before you switch from 4:3 to 16:9 or vice versa (or any other aspect ratio) you have to change the ratio in CS2 itself before you apply the new video.cfg.
 
+also you can play a bit with those settings on line 27 & 28
+```
+"setting.r_character_decal_resolution"		"128"
+"setting.r_texture_stream_max_resolution"		"128"
+```
+those settings are for the "quality" of the models etc. on "128" everything lowkey looks like sh*t (but fck it, fps over everything)
+
+but if you dont like the full sh*t look just multiply those numbers by 2
+
+for example "256 > 512" and so on.
+
 ### Language File
 just as in CS:GO, i also use an own language file in CS2 (just cuz, why not right?).
 
