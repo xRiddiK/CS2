@@ -4,6 +4,18 @@
 #### Step 1:
 Go to "Steam\userdata\<YOUR ID>\730\local\cfg".
 
+in case you got multiple folders inside of "Steam\userdata\"
+
+you can go to [SteamID.xyz](https://steamid.xyz), paste your "default" steam id into that and search it up, you need the funny numbers from Steam ID3. for example
+```
+U:1:244404564 > 244404564
+```
+in case you dont know where to find the "default" steam id, open up steam, go to your profile and on the top you got a little url that looks something like this 
+```
+https://steamcommunity.com/id/<id/name>/
+```
+copy the id and your good to go.
+
 Create a backup of your old "cs2_video.txt" (just rename it to "cs2_video.txt.old" or smth) (!!!DONT DELETE IT!!!).
 #### Step 2:
 Download my "cs2_video.txt" or copy the content of it into a new "cs2_video.txt".
