@@ -1,4 +1,3 @@
-# CS2
 ## CS2 Config Shit
 
 ### Video Settings
