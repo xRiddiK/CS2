@@ -5,7 +5,7 @@ You can find a Guide to set everything correctly up in the [Wiki](https://github
 there is everything written down you need to know.
 
 if you still need a help you can hit me up on discord or steam
-- Discord "xriddik"
+- Discord [xRiddiK](https://discord.com/users/736968687239823412)
 - Steam [xRiddiK](https://steamcommunity.com/id/xriddik/)
 
 ## Credits
