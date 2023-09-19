@@ -38,7 +38,7 @@ those settings are for the "quality" of the models etc. on "128" everything lowk
 
 but if you dont like the full sh*t look just multiply those numbers by 2
 
-for example "256 > 512" and so on.
+for example "128 > 256 > 512" and so on.
 
 ### Language File
 just as in CS:GO, i also use an own language file in CS2 (just cuz, why not right?).
